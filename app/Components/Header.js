@@ -9,7 +9,7 @@ export default function Header() {
     { href: "/configurations", label: "Configurations" },
     { href: "/bon-plans", label: "Bon Plans" },
     { href: "/montage", label: "Montage" },
-    { href: "/a-propos", label: "À propos" },
+    { href: "/a-propos", label: "A propos" },
   ]
 
   return (
